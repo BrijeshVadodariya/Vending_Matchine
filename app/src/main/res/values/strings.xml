@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Puff_Soda</string>
+    <string name="scan">scan</string>
+    <string name="results_appear_here">result</string>
+</resources>
